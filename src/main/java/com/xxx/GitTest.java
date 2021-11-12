@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("remote ssh push");
+        System.out.println("remote ssh pull");
     }
 }
